@@ -1,27 +1,8 @@
-/*@font-face {*/
-/*  font-family: 'Circe';*/
-/*  src: url("../fonts/Circe.eot");*/
-/*  src: url("../fonts/Circe.eot?#iefix") format('embedded-opentype'),*/
-/*  url("../fonts/Circe.ttf") format('truetype'),*/
-/*  url("../fonts/Circe.woff") format('woff');*/
-/*  font-weight: normal;*/
-/*  font-style: normal*/
-/*}*/
 
-/*@font-face {*/
-/*  font-family: 'Circe';*/
-/*  src: url("../fonts/CirceLight.eot");*/
-/*  src: url("../fonts/CirceLight.eot?#iefix") format('embedded-opentype');*/
-/*  font-weight: 100;*/
-/*  font-style: normal*/
-/*}*/
 
 @font-face {
   font-family: 'Circe';
-  src: url("../fonts/CirceBold.eot");
-  src: url("../fonts/CirceBold.eot?#iefix") format('embedded-opentype'),
-  url("../fonts/CirceBold.ttf") format('truetype'),
-  url("../fonts/CirceBold.woff") format('woff');
+  font-style: normal;
   font-weight: bold;
-  font-style: normal
+  src: url('https://github.com/kabanproff/new-mailfit/raw/refs/heads/main/fonts/CirceBold.woff') format('woff');
 }
